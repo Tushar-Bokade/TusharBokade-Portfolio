@@ -67,7 +67,6 @@ a:hover { color: var(--primary-dark); }
 .button.primary { color: #fff; background: var(--primary); box-shadow: 0 6px 15px rgba(36, 111, 189, .18); }
 .button.primary:hover { color: #fff; background: var(--primary-dark); }
 .button.secondary { color: var(--primary); background: var(--soft-blue); }
-.button.gitprofile { color: var(--primary); background: var(--soft-blue); }
 .button.outline-light { color: #fff; border: 1px solid rgba(255,255,255,.55); background: transparent; }
 .full-width { width: 100%; }
 .contact-list { margin: 22px 0 26px; }
